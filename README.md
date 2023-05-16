@@ -1,2 +1,2 @@
 # fileformat-cnf
-General file formats
+General CNF file format for PlayStation 2
