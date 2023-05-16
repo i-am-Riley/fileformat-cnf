@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Rileysoft.FileFormats.CNF</Title>
+    <Version>1.0.0</Version>
+    <Authors>i-am-Riley</Authors>
+    <Company>i-am-Riley</Company>
+    <Description>CNF File Format for the PlayStation 2</Description>
+    <PackageProjectUrl>https://github.com/i-am-Riley/fileformat-cnf</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/i-am-Riley/fileformat-cnf</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>playstation2</PackageTags>
+    <PackageReleaseNotes>Ported code from Rileysoft.DotHack</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
