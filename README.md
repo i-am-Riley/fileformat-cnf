@@ -1,5 +1,5 @@
 # SYSTEM.CNF
-This file is top-level and defines a few parameters for the PS2 to use to run the program.
+This file is top-level and defines a few parameters for the PlayStation 2® to use to run the program.
 
 ## Contents
 These are the contents for the copy of .hack//infection's ``System.cnf`` which uses CRLF for the newlines
