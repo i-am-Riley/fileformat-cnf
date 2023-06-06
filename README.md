@@ -13,6 +13,8 @@ VMODE = NTSC
 A ``PARAM2`` and ``PARAM4`` can also be present but aren't in this example.
 
 ## Loading in C#
+Install the nuget package ``Rileysoft.FileFormats.CNF`` 
+
 For C# reference the following for use to load a CNF file:  
 [CnfFile](https://github.com/i-am-Riley/fileformat-cnf/blob/main/Rileysoft.FileFormats.CNF/Rileysoft.FileFormats.CNF/CnfFile.cs) - Performs I/O to read/write CNF data.  
 [CnfData](https://github.com/i-am-Riley/fileformat-cnf/blob/main/Rileysoft.FileFormats.CNF/Rileysoft.FileFormats.CNF/CnfData.cs) - Defines CNF data.  
